@@ -1,13 +1,11 @@
 
-# On The Way
-This project is an implementation of an online student counselling system for students of .
+# Machakos University Guidance and counselling system
+This project is an implementation of an online student counselling system for students of Machakos University
 
 ## Highlight of this project is -
 - Private chat between students and counsellors.
 
-## Acknowledgements
-This is a student project.
- - Images on home page have been taken from [yourdost.com](https://yourdost.com/)
+
 
 ## Features
 #### Students can
